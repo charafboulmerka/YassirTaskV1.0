@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Yassir Task v1</string>
+    <string name="no_internet">Please check your internet connection !</string>
+
 </resources>
